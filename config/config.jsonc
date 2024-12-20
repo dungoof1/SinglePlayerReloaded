@@ -1,11 +1,16 @@
 {
     "hideout": {
+
         "stashChanges": true, // Makes the stash cheaper to upgrade
-        "hideoutQOL": true //...
+        "instantConstruction": true, // Makes construction instant
+
+        "bitcoinBuff": true // Makes GPUs 10% efficient(up from 4%), and reduces craft time slightly
     },
     "traders": {
         "disableFlea": true, // Disables the flea market
-        "insuranceChanges": true, // Changes to insurance
+        "insuranceChanges": true, // Prapor 30% chance of return, Therapist 60% chance but double price
+
         "secureAssortChanges": true // Adds barters for secure containers
-    }
+    },
+    "keyChanges": true
 }
