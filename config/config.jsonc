@@ -1,0 +1,11 @@
+{
+    "hideout": {
+        "stashChanges": true, // Makes the stash cheaper to upgrade
+        "hideoutQOL": true //...
+    },
+    "traders": {
+        "disableFlea": true, // Disables the flea market
+        "insuranceChanges": true, // Changes to insurance
+        "secureAssortChanges": true // Adds barters for secure containers
+    }
+}
